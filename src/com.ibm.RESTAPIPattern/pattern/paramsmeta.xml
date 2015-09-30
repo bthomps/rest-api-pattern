@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<povs xmlns:patterns="http://www.ibm.com/patterns">
+    <simplePov groupId="com.ibm.RESTAPIPattern.pattern.instanceName" name="instanceName"/>
+    <simplePov
+        groupId="com.ibm.RESTAPIPattern.pattern.Id14fd286ea908c9ca6041344eee6" name="ppSwaggerDescription"/>
+    <simplePov
+        groupId="com.ibm.RESTAPIPattern.pattern.Id14fd286ea908c9ca6041344eee6" name="ppSwaggerTitle"/>
+    <simplePov
+        groupId="com.ibm.RESTAPIPattern.pattern.Id14fd286ea908c9ca6041344eee6" name="ppSwaggerVersion"/>
+    <simplePov
+        groupId="com.ibm.RESTAPIPattern.pattern.Id14fd286ea908c9ca6041344eee6" name="ppSwaggerHost"/>
+    <simplePov
+        groupId="com.ibm.RESTAPIPattern.pattern.Id14fd286ea908c9ca6041344eee6" name="ppSwaggerBasePath"/>
+    <simplePov editorId="EditorId14fd2e3bdea356814531be15ef1"
+        groupId="com.ibm.RESTAPIPattern.pattern.Id14fac7411405c538268fabd34b3" name="pp3">
+        <action type="custom"/>
+    </simplePov>
+    <Group id="com.ibm.RESTAPIPattern.pattern.instanceName" visible="false"/>
+    <Group description="description" expand="false"
+        id="com.ibm.RESTAPIPattern.pattern.Id14fd286ea908c9ca6041344eee6"
+        name="Id14fd286ea908c9ca6041344eee6" visible="true"/>
+    <Group description="description" expand="false"
+        id="com.ibm.RESTAPIPattern.pattern.Id14fac7411405c538268fabd34b3"
+        name="Id14fac7411405c538268fabd34b3" visible="true"/>
+    <ReferencedProject name="_RESTAPI"/>
+</povs>
